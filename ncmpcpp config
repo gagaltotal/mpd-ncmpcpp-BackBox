@@ -1,8 +1,8 @@
 % egrep -v '^#' .ncmpcpp/config
-mpd_music_dir = "/home/ghostgtr666/Music"
+mpd_music_dir = "/home/ghostgtr666/Music" #ubah dibagian directory ini untuk playlist music kamu
 visualizer_in_stereo = "yes"
 visualizer_fifo_path = "/tmp/mpd.fifo"
-visualizer_output_name = "GhostGTR666"
+visualizer_output_name = "GhostGTR666" #ubah nama sesuai nama anda sendiri
 visualizer_sync_interval = "30"
 visualizer_type = "spectrum"
 #visualizer_look = "◆▋"
