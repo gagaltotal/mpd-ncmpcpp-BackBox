@@ -21,5 +21,6 @@ i - Display song info
 l - Displays the lyrics for the song being played
 L - Search for more lyrics found in the database
 p - Play / Pause
+u - then press ‘u’ in order to update the database in music update
 Shift++ - Adds volume
 - - Reduce volume
